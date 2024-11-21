@@ -1,0 +1,11 @@
+html {
+  background: lightskyblue;
+}
+
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 3px solid red;
+}
